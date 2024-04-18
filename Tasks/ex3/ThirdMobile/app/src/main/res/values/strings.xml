@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecondMobile</string>
+    <string name="LabelContent1">Výška v cm</string>
+    <string name="LabelContent2">Váha v kg</string>
+    <string name="ButtonContent1">Vypočítat</string>
+    <string name="LabelContent3">BMI: </string>
+    <string name="BackButtonContent">Zpět</string>
+    <string name="DisplayContentHeight">Výška</string>
+    <string name="DisplayContentWeight">Váha</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondMobile</string>
+    <string name="ButtonContent1">Calculate</string>
+    <string name="LabelContent1">Height in cm</string>
+    <string name="LabelContent2">Weight in kg</string>
+    <string name="LabelContent3">BMI</string>
+    <string name="BackButtonContent">Back</string>
+    <string name="DisplayContentHeight">Height</string>
+    <string name="DisplayContentWeight">Weight</string>
+</resources>
